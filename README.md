@@ -30,8 +30,8 @@ chmod u+x test_authorname.sh
 ```
 
 # IMPORTANT
-* **Before making a contribution do not forget to do ```git pull``` but when ```git push``` only add the file you have created**
-* **All tests must be in *test_simple_shell directory***
-* **You are only allowed to upload and modify your own files (*test_authorname.sh*), please do not modify other people's files or anything else. This is in order to avoid conflicts.**
+* Before making a contribution do not forget to do ```git pull``` but when ```git push``` only add the file you have created
+* All tests must be in *test_simple_shell directory*
+* You are only allowed to upload and modify your own files (*test_authorname.sh*), please do not modify other people's files or anything else. This is in order to avoid conflicts.
 
-*If you have any comment or advice, feel free to reach me out.*
+***If you have any comment or advice, feel free to reach me out.***
